@@ -1,0 +1,7 @@
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\WebApplicationDemo.exe
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\WebApplicationDemo.dll
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\WebApplicationDemo.deps.json
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\WebApplicationDemo.runtimeconfig.json
+C:\Users\vinodh\source\repos\WebApplicationDemo\WebApplicationDemo\obj\Release\net7.0\PubTmp\Out\WebApplicationDemo.pdb
